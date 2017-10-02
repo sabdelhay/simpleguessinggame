@@ -39,5 +39,5 @@ while True:
         print("You won!")
         break
     else:
-        print("Wrong guess try again!")
+        print("Wrong guess or try again!")
         break
